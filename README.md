@@ -1,4 +1,4 @@
-#### FlatIron_Phase1_project
+FlatIron_Phase1_project
 ---
 
 Overview
