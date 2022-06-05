@@ -17,7 +17,7 @@ Source of Data
 
 *sqldataframephase1
 
-*The above data are used to provide studtio info, movie genres info and movie gross info.
+The above data are used to provide studtio info, movie genres info and movie gross info.
     
 
 Three Visualizations
