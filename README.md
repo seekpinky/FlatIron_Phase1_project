@@ -23,11 +23,10 @@ Source of Data
 Three Visualizations
 ---
 
-BV domestic gross vs 
-
+BV domestic gross between 2010 to 2018
 ![image](https://user-images.githubusercontent.com/65572411/172056866-9beb8a6a-79f4-4484-b393-cf0a6c3825fc.png)
 
-BV domestic gross vs 
+BV domestic gross vs runtime 
 ![image](https://user-images.githubusercontent.com/65572411/172056909-7bdc0d81-3372-4606-94ee-57f03adc81c5.png)
 
 BV movie genre type in 2016-2018
