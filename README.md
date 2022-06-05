@@ -2,14 +2,14 @@
 
 ##Overview
 
-My project aims to provide some insights for Microsoft Studio to create movie.
-Business Understanding
-Microsoft's new studio want to create original movie but they are not sure what type of films to create to generate profit.
-Data Understanding Analysis
-    Source of Data
-    bom.movie_gross.csv.gz
-    sqldataframephase1
-The above data are used to provide studtio info, movie genres info and movie gross info.
+*My project aims to provide some insights for Microsoft Studio to create movie.
+##Business Understanding
+*Microsoft's new studio want to create original movie but they are not sure what type of films to create to generate profit.
+##Data Understanding Analysis
+#Source of Data
+*bom.movie_gross.csv.gz
+*sqldataframephase1
+*The above data are used to provide studtio info, movie genres info and movie gross info.
     Description of Data
     Three Visualizations
 
