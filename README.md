@@ -1,10 +1,10 @@
 #### FlatIron_Phase1_project
 
-##Overview
+##Overview##
 
-*My project aims to provide some insights for Microsoft Studio to create movie.
+My project aims to provide some insights for Microsoft Studio to create movie.
 
-##Business Understanding
+##Business Understanding##
 
 *Microsoft's new studio want to create original movie but they are not sure what type of films to create to generate profit.
 
